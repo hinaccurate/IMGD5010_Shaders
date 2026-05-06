@@ -6,4 +6,4 @@ An assignment to record a one-minute or longer shader-based animation within The
 
 * [https://youtube.com](video)
 * [code](code)
-* [explanation](explanation)
+* [explanation](https://github.com/hinaccurate/IMGD5010_Shaders/blob/main/explanation.md)
