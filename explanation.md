@@ -15,5 +15,5 @@ experience within it, but instead provides time, space, and support to be try so
 
 ### tools used
 
-* Shawn Lawson's [https://shawnlawson.github.io/The_Force/](The Force) 
-* [https://obsproject.com/](OBS Studio)
+* Shawn Lawson's [The Force](https://shawnlawson.github.io/The_Force/)
+* [OBS Studio](https://obsproject.com/)
