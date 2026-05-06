@@ -5,5 +5,5 @@ An assignment to record a one-minute or longer shader-based animation within The
 ### link to work
 
 * [https://youtube.com](video)
-* [code](code)
+* [code](https://github.com/hinaccurate/IMGD5010_Shaders/blob/main/nighttimeatthedennys.glsl)
 * [explanation](https://github.com/hinaccurate/IMGD5010_Shaders/blob/main/explanation.md)
