@@ -4,6 +4,10 @@ An assignment to record a one-minute or longer shader-based animation within The
 ## Nighttime at The Denny's
 ### link to work
 
-* [https://youtube.com](video)
+* [video](https://youtu.be/uHAJtTrMCPw)]
 * [code](https://github.com/hinaccurate/IMGD5010_Shaders/blob/main/nighttimeatthedennys.glsl)
 * [explanation](https://github.com/hinaccurate/IMGD5010_Shaders/blob/main/explanation.md)
+
+### supplementary material
+
+* [extracted audio]() to upload as a source for recreating original, non-laggy effect 
